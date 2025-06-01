@@ -1,0 +1,33 @@
+PROGRAM - 2 commands
+
+git init
+git add .
+git commit -m  "content"
+git remote add origin "Repository_address"
+git push -u origin master
+
+mvn clean install
+git commit -m "docs"
+git push -u orgin master
+mvn test
+mvn clean package
+java -jar target/
+
+
+PROGRAM - 3
+
+ALL GIT COMMANDS
+
+gradle run
+gradle test
+gradle jar
+java -jar build/libs/
+
+
+PROGRAM - 4
+
+mvn clean compile
+mvn package
+gradle init --type pom
+gradle clean build
+java -jar 
