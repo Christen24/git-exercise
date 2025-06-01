@@ -31,3 +31,11 @@ mvn package
 gradle init --type pom
 gradle clean build
 java -jar 
+
+PROGRAM - 6
+
+cd D:\Idea Projects\MVNGRDLDEMO
+mvn test
+
+lab mabual=
+https://gofile.io/d/YTgdPl
